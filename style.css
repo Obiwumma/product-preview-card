@@ -1,7 +1,12 @@
 body{
-  background-color: #fee1e9;
+  background-color: #fee1f2;
 }
 .happy{
   height: 87vh;
   background-color: #ffffff;
+  border-radius: 10px;
+}
+img{
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
 }
