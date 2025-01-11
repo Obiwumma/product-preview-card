@@ -1,7 +1,7 @@
 body{
   background-color: #fee1f2;
 }
-.happy{
+.main{
   height: 87vh;
   background-color: #ffffff;
   border-radius: 10px;
@@ -9,4 +9,7 @@ body{
 img{
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
+}
+.sect{
+  margin: 20px;
 }
