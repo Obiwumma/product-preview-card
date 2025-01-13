@@ -1,14 +1,18 @@
 body{
   background-color: #fee1f2;
 }
+img{
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+h2{
+  font-size: 40px;
+  font-family: ;
+}
 .main{
   height: 87vh;
   background-color: #ffffff;
   border-radius: 10px;
-}
-img{
-  border-top-right-radius: 10px;
-  border-top-left-radius: 10px;
 }
 .sect{
   margin: 20px;
