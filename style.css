@@ -6,7 +6,13 @@ img{
   border-top-left-radius: 10px;
 }
 h2{
-  font-size: 32px;
+  font-size: 35px;
+  color: #000000;
+  font-family: Helvetic;
+  font-weight: bold;
+  line-height: 2rem;
+  margin-top: 10px;
+  margin-bottom: 15px;
 }
 .main{
   height: 87vh;
