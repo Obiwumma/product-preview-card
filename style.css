@@ -6,14 +6,18 @@ img{
   border-top-left-radius: 10px;
 }
 h2{
-  font-size: 40px;
-  font-family: ;
+  font-size: 32px;
 }
 .main{
   height: 87vh;
   background-color: #ffffff;
   border-radius: 10px;
+  color: #8b8686;
 }
 .sect{
   margin: 20px;
+}
+.Perfume{
+  font-family: monospace;
+  letter-spacing: 0.5em;
 }
