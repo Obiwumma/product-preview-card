@@ -1,55 +1,59 @@
-body{
-  background-color: #f4e9ef;
-}
-img{
-  border-top-right-radius: 10px;
-  border-top-left-radius: 10px;
-}
-h2{
-  font-size: 35px;
-  color: #000000;
-  font-family: Helvetic;
-  font-weight: bold;
-  line-height: 2rem; 
-}
-.main{
-  height: 95vh;
-  background-color: #ffffff;
-  border-radius: 10px;
-  color: #8b8686;
-}
-.sect{
-  margin: 20px;
-}
-.Perfume{
-  font-family: monospace;
-  letter-spacing: 0.5em;
-}
-.price{
-  display: flex;
-  align-items: center;
-}
-.price p{
-  padding: 10px;
-}
-.price1{
-  font-family: he;
-  font-size: 40px;
-  font-weight: bolder;
-  color: #3f8e3fd6;
-}
-.price2{
-  text-decoration: line-through;
-}
-.btn{
-  display: flex;
-  justify-content: center;
-  margin-bottom: 20px;
-}
-button{
-  color: #ffffff;
-  background-color: #3f8e3fd6;
-  height: 50px;
-  width: 100%;
-  border-radius: 8px;
+@media (max-width: 767px) {
+      body{
+      background-color: #f4e9ef;
+      padding: 50px 30px 50px 30px;
+      height: 100vh;
+    }
+    img{
+      border-top-right-radius: 10px;
+      border-top-left-radius: 10px;
+    }
+    h2{
+      font-size: 35px;
+      color: #000000;
+    font-family: Helvetic;
+    font-weight: bold;
+    line-height: 2rem; 
+  }
+  .main{
+    height: 100%;
+    background-color: #ffffff;
+    border-radius: 10px;
+    color: #8b8686;
+  }
+  .sect{
+    margin: 20px;
+  }
+  .Perfume{
+    font-family: monospace;
+    letter-spacing: 0.5em;
+  }
+  .price{
+    display: flex;
+    align-items: center;
+  }
+  .price p{
+    padding: 10px;
+  }
+  .price1{
+    font-family: he;
+    font-size: 40px;
+    font-weight: bolder;
+    color: #3f8e3fd6;
+  }
+  .price2{
+    text-decoration: line-through;
+  }
+  .btn{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  button{
+    color: #ffffff;
+    background-color: #3f8e3fd6;
+    height: 50px;
+    width: 100%;
+    border-radius: 8px;
+  }
 }
