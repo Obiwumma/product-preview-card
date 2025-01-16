@@ -65,7 +65,7 @@
 @media (min-width: 767px){
   body{
     background-color: #f4e9ef;
-    padding: 30vh 10vw;
+    padding: 20vh 25vw;
     height: 100vh;
   }
   .img{
@@ -79,6 +79,9 @@
     background-color: #ffffff;
     border-radius: 10px;
     color: #8b8686;
-    
+  }
+  .Perfume{
+    font-family: monospace;
+    letter-spacing: 0.5em;
   }
 }
