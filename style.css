@@ -33,6 +33,9 @@
     font-family: monospace;
     letter-spacing: 0.5em;
   }
+  .write{
+    line-height: 1.7rem;
+  }
   .price{
     display: flex;
     align-items: center;
@@ -81,11 +84,54 @@
     background-color: #ffffff;
     border-radius: 10px;
     color: #8b8686;
-    width: 500px;
+    width: 540px;
     height:390px;
   }
   .Perfume{
     font-family: monospace;
     letter-spacing: 0.5em;
+  }
+  h2{
+    font-size: 35px;
+    color: #000000;
+    font-family: Helvetic;
+    font-weight: bold;
+    line-height: 2rem; 
+  }
+  .sect{
+    width: 270px;
+    padding: 20px 30px;
+    padding-right: 50px;
+  }
+  .write{
+    font-size: 13px;
+  }
+  .price{
+    display: flex;
+    align-items: center;
+  }
+  .price p{
+    padding: 10px;
+  }
+  .price1{
+    font-family: he;
+    font-size: 30px;
+    font-weight: bolder;
+    color: #3f8e3fd6;
+  }
+  .price2{
+    text-decoration: line-through;
+  }
+  .btn{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  button{
+    color: #ffffff;
+    background-color: #3f8e3fd6;
+    height: 40px;
+    width: 100%;
+    border-radius: 8px;
   }
 }
