@@ -1,4 +1,4 @@
-@media (max-width: 767px) {
+@media (max-width: 599px) {
       body{
       background-color: #f4e9ef;
       padding: 50px 30px 50px 30px;
@@ -65,7 +65,7 @@
     border-radius: 8px;
   }
 }
-@media (min-width: 767px){
+@media (min-width: 600px){
   body{
     background-color: #f4e9ef;
     padding: 20vh 25vw;
